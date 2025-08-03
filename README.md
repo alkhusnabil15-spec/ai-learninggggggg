@@ -13,3 +13,4 @@ Proyek ini berisi latihan dan eksperimen saya untuk menjadi AI engineer.
 1. Clone repo:
    ```bash
    git clone
+   https://github.com/alkhusnabil15-spec/ai-learninggggggg
